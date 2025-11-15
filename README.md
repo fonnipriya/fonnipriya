@@ -6,6 +6,7 @@
 
 ---
 
+## <div align="center">🚀 About Me</div>
 <div align="center">
 
 I’m a passionate <b>Full Stack Developer</b> focused on building efficient and user-friendly web applications.  
