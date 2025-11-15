@@ -7,7 +7,7 @@
 ---
 
 ## <div align="center">🚀 About Me</div>
-<div align="center">
+<div align="left">
 
 I’m a passionate <b>Full Stack Developer</b> focused on building efficient and user-friendly web applications.  
 I love learning new technologies, solving real-world problems, and contributing to open-source projects.
