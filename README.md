@@ -21,26 +21,30 @@ I love learning new technologies, solving real-world problems, and contributing 
 
 ### 🧰 Tech Stack
 
-#### 🌐 Frontend
-`HTML` | `CSS` | `JavaScript` | `React.js`
+<div align="center">
 
-#### ⚙️ Backend
-`Node.js` | `Express.js`
+#### 🌐 Frontend  
+`HTML` • `CSS` • `JavaScript` • `React.js`
 
-#### 🗄️ Database
-`MongoDB` | `DBMS`
+#### ⚙️ Backend  
+`Node.js` • `Express.js`
 
-#### 💻 Programming Languages
-`Python` | `JavaScript`
+#### 🗄️ Database  
+`MongoDB` • `DBMS`
 
-#### 🧠 CS Fundamentals
-`Operating Systems` | `Software Development Life Cycle (SDLC)`
+#### 💻 Programming Languages  
+`Python` • `JavaScript`
 
-#### 🧩 Tools & Platforms
-`Git` | `GitHub` | `Vercel` | `Postman`
+#### 🧠 CS Fundamentals  
+`Operating Systems` • `Software Development Life Cycle (SDLC)`
 
-#### 🤖 Interests
-`Generative AI` | `AI-powered Web Development`
+#### 🧩 Tools & Platforms  
+`Git` • `GitHub` • `Postman` • `Vercel`
+
+#### 🤖 Interests  
+`Generative AI` • `AI-powered Web Development`
+
+</div>
 
 ---
 
@@ -68,14 +72,8 @@ I love learning new technologies, solving real-world problems, and contributing 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priya-singh-666377253/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/priya-singh-666377253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/fonnipriya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
@@ -83,4 +81,3 @@ I love learning new technologies, solving real-world problems, and contributing 
 
 ⭐ **“Code. Create. Innovate.”**  
 💬 Always open to collaboration and new opportunities!
-
