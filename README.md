@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+### <div align="center">🚀 About Me</div>
 
 I’m a passionate **Full Stack Developer** with a knack for building efficient and user-friendly web applications.  
 I love learning new technologies, solving real-world problems, and contributing to open-source projects.
@@ -19,36 +19,36 @@ I love learning new technologies, solving real-world problems, and contributing 
 
 ---
 
-### 🧰 Tech Stack
+### <div align="center">🧰 Tech Stack</div>
 
 <div align="center">
 
-#### 🌐 Frontend  
+#### <div align="center">🌐 Frontend</div>
 `HTML` • `CSS` • `JavaScript` • `React.js`
 
-#### ⚙️ Backend  
+#### <div align="center">⚙️ Backend</div>
 `Node.js` • `Express.js`
 
-#### 🗄️ Database  
+#### <div align="center">🗄️ Database</div>
 `MongoDB` • `DBMS`
 
-#### 💻 Programming Languages  
+#### <div align="center">💻 Programming Languages</div>
 `Python` • `JavaScript`
 
-#### 🧠 CS Fundamentals  
+#### <div align="center">🧠 CS Fundamentals</div>
 `Operating Systems` • `Software Development Life Cycle (SDLC)`
 
-#### 🧩 Tools & Platforms  
+#### <div align="center">🧩 Tools & Platforms</div>
 `Git` • `GitHub` • `Postman` • `Vercel`
 
-#### 🤖 Interests  
+#### <div align="center">🤖 Interests</div>
 `Generative AI` • `AI-powered Web Development`
 
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### <div align="center">🌟 Featured Projects</div>
 
 | Project | Description | Tech Stack | Demo / Code |
 |----------|--------------|-------------|--------------|
@@ -59,7 +59,7 @@ I love learning new technologies, solving real-world problems, and contributing 
 
 ---
 
-### 📊 GitHub Stats
+### <div align="center">📊 GitHub Stats</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fonnipriya&show_icons=true&theme=radical" alt="Priya's GitHub stats" />
@@ -69,7 +69,7 @@ I love learning new technologies, solving real-world problems, and contributing 
 
 ---
 
-### 🤝 Connect with Me
+### <div align="center">🤝 Connect with Me</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priya-singh-666377253" target="_blank">
