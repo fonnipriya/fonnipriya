@@ -6,16 +6,20 @@
 
 ---
 
-## <div align="center">🚀 About Me</div>
+<div align="center">
 
-I’m a passionate **Full Stack Developer** focused on building efficient and user-friendly web applications.  
+I’m a passionate <b>Full Stack Developer</b> focused on building efficient and user-friendly web applications.  
 I love learning new technologies, solving real-world problems, and contributing to open-source projects.
 
-- 🌱 Currently exploring **Generative AI** and **Advanced React concepts**
-- 💡 Interested in **MERN Stack**, **AI-powered web applications**, and **software development**
-- 💬 Ask me about **JavaScript, Node.js, React, Python, MongoDB**
-- 🎯 Goal: To contribute to impactful full-stack and AI-driven projects  
-- 📫 Reach me at: **fonnipriya@gmail.com**
+<br>
+
+🌱 Currently exploring <b>Generative AI</b> and <b>Advanced React concepts</b>  
+💡 Interested in <b>MERN Stack</b>, <b>AI-powered web applications</b>, and <b>software development</b>  
+💬 Ask me about <b>JavaScript, Node.js, React, Python, MongoDB</b>  
+🎯 Goal: To contribute to impactful full-stack and AI-driven projects  
+📫 Reach me at: <b>fonnipriya@gmail.com</b>
+
+</div>
 
 ---
 
