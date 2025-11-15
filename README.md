@@ -15,13 +15,11 @@ I love learning new technologies, solving real-world problems, and contributing 
 
 <div align="center">
 
-<ul style="list-style-type: none; padding: 0;">
-  <li>🌱 Currently exploring <b>Generative AI</b> and <b>Advanced React concepts</b></li>
-  <li>💡 Interested in <b>MERN Stack</b>, <b>AI-powered web applications</b>, and <b>software development</b></li>
-  <li>💬 Ask me about <b>JavaScript, Node.js, React, Python, MongoDB</b></li>
-  <li>🎯 Goal: To contribute to impactful full-stack and AI-driven projects</li>
-  <li>📫 Reach me at: <b>fonnipriya@gmail.com</b></li>
-</ul>
+🌱 Currently exploring <b>Generative AI</b> and <b>Advanced React concepts</b><br>
+💡 Interested in <b>MERN Stack</b>, <b>AI-powered web applications</b>, and <b>software development</b><br>
+💬 Ask me about <b>JavaScript, Node.js, React, Python, MongoDB</b><br>
+🎯 Goal: To contribute to impactful full-stack and AI-driven projects<br>
+📫 Reach me at: <b>fonnipriya@gmail.com</b>
 
 </div>
 ---
