@@ -14,7 +14,7 @@ I love learning new technologies, solving real-world problems, and contributing 
 
 <br>
 
-<div align="center">
+<div align="left">
 
 🌱 Currently exploring <b>Generative AI</b> and <b>Advanced React concepts</b>
 
