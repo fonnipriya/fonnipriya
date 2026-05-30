@@ -79,9 +79,7 @@ I love learning new technologies, solving real-world problems, and contributing 
 ## <div align="center">🤝 Connect with Me</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priya-singh-666377253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  
 </p>
 
 ---
