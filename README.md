@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Priya!</h1>
 
 <p align="center">
-  🌐 Full Stack Developer | 💻 Tech Enthusiast | 🤖 Exploring GenAI
+  🌐 Front end Developer | 💻 Tech Enthusiast | 🤖 Exploring GenAI
 </p>
 
 ---
@@ -20,9 +20,9 @@ I love learning new technologies, solving real-world problems, and contributing 
 
 💡 Interested in <b>MERN Stack</b>, <b>AI-powered web applications</b>, and <b>software development</b>
 
-💬 Ask me about <b>JavaScript, Node.js, React, Python, MongoDB</b>
+💬 Ask me about <b>JavaScript</b>
 
-🎯 Goal: To contribute to impactful full-stack and AI-driven projects
+🎯 Goal: To contribute to impactful front end and AI-driven projects
 
 📫 Reach me at: <b>fonnipriya@gmail.com</b>
 
