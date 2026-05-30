@@ -36,20 +36,17 @@ I love learning new technologies, solving real-world problems, and contributing 
 ### 🌐 Frontend  
 `HTML` • `CSS` • `JavaScript` • `React.js`
 
-### ⚙️ Backend  
-`Node.js` • `Express.js`
 
-### 🗄️ Database  
-`MongoDB` • `DBMS`
+
+
 
 ### 💻 Programming Languages  
-`Python` • `JavaScript`
+• `JavaScript`
 
-### 🧠 CS Fundamentals  
-`Operating Systems` • `SDLC`
+
 
 ### 🧩 Tools & Platforms  
-`Git` • `GitHub` • `Postman` • `Vercel`
+`Git` • `GitHub` • `Vercel`
 
 ### 🤖 Interests  
 `Generative AI` • `AI-powered Web Development`
